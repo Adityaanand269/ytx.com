@@ -3827,7 +3827,7 @@ a.btn-round-animation.dark {
 	background: var(--white);
 }
 
-.banner-software h2 {
+.banner-software h1 {
 	font-size: 60px;
 	line-height: 1.2;
 	font-weight: 700;
@@ -3839,13 +3839,13 @@ a.btn-round-animation.dark {
 	padding: 0 15%;
 }
 
-.banner-software h2 strong {
+.banner-software h1 strong {
 	display: inline-block;
 	position: relative;
 	z-index: 1;
 }
 
-.banner-software h2 strong::after {
+.banner-software h1 strong::after {
 	position: absolute;
 	left: 0;
 	bottom: -5px;
@@ -3921,7 +3921,7 @@ a.btn-round-animation.dark {
 	padding-top: 200px;
 }
 
-.banner-seo .content-box h2 {
+.banner-seo .content-box h1 {
 	font-size: 70px;
 	line-height: 1.1;
 	font-weight: 700;
@@ -8522,7 +8522,7 @@ footer .f-item.link li a:hover {
 @media (max-width: 767px) {
 	/* Banner */
 
-	.banner-software h2 {
+	.banner-software h1 {
 		font-size: 36px;
 	}
 
